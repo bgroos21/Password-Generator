@@ -43,3 +43,5 @@ Tutoring tutorial: Ray Wiullis
 
 https://bgroos21.github.io/Password-Generator/
 
+This site will generate a radom password to the specifications allowed and selected by user.  
+Minumum of 8 characters with options of CAPS, lowercase, numbers and special characters.  
